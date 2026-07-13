@@ -8,8 +8,8 @@
 
 Velorah is a cinematic brand website for a design studio that crafts tools for deep thinkers, bold creators, and quiet rebels. Built with React, TypeScript, Tailwind CSS v4, and Framer Motion.
 
-![Hero Section](https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1200&h=630&fit=crop)
-*Placeholder: Replace with Hero section screenshot*
+<img width="800" height="589" alt="image" src="https://github.com/user-attachments/assets/15aea233-0209-45ff-a841-cf967f8a3a0e" />
+
 
 ---
 
@@ -44,8 +44,8 @@ Velorah is a cinematic brand website for a design studio that crafts tools for d
 
 ### Cinematic Hero
 
-![Hero](https://images.unsplash.com/photo-1504898770365-14faca6a7320?w=800&h=400&fit=crop)
-*Placeholder: Replace with Hero region screenshot*
+<img width="1891" height="984" alt="image" src="https://github.com/user-attachments/assets/794658d7-af8a-4df1-8399-3aa92dab2120" />
+
 
 - Fullscreen looping video background (autoPlay, loop, muted, playsInline)
 - Animated headline with staggered fade-up entrance
@@ -70,8 +70,8 @@ Toggle switch in the navigation bar switches all content between English and Chi
 
 ### Studio Grid with Visual Placeholders
 
-![Studio Grid](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
-*Placeholder: Replace with Studio page screenshot*
+<img width="1887" height="987" alt="image" src="https://github.com/user-attachments/assets/a575d2d1-1af5-427e-8184-ada621711f0f" />
+
 
 - Filterable by category (All / Tools / Experiences / Installations / Interfaces)
 - `AnimatePresence` layout animations on filter change
@@ -91,8 +91,8 @@ Each page has a unique `<title>` and `<meta description>` via react-helmet-async
 
 ### Journal Detail Pages
 
-![Journal](https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=400&fit=crop)
-*Placeholder: Replace with Journal page screenshot*
+<img width="1880" height="988" alt="image" src="https://github.com/user-attachments/assets/c5a43369-e3ea-4419-a263-bf28f5950c6d" />
+
 
 - 6 articles in each language with full body content
 - Rich text support (bold leads, ordered lists, paragraphs)
@@ -169,20 +169,20 @@ src/
 
 ## Screenshots
 
-![Home Page](https://images.unsplash.com/photo-1550684376-efcbd6e3f031?w=1200&h=630&fit=crop)
-*Placeholder: Replace with full Home page screenshot*
+<img width="1889" height="990" alt="image" src="https://github.com/user-attachments/assets/c64e3221-ca48-4e7f-a277-379eef9a00c5" />
 
-![Studio Grid](https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=1200&h=630&fit=crop)
-*Placeholder: Replace with Studio grid screenshot*
 
-![About Page](https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1200&h=630&fit=crop)
-*Placeholder: Replace with About page screenshot*
+<img width="1886" height="985" alt="image" src="https://github.com/user-attachments/assets/bbafadfc-0551-4702-b7e3-b6af5e48d190" />
 
-![Journal Page](https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200&h=630&fit=crop)
-*Placeholder: Replace with Journal page screenshot*
 
-![Reach Us Page](https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1200&h=630&fit=crop)
-*Placeholder: Replace with Reach Us page screenshot*
+<img width="1885" height="984" alt="image" src="https://github.com/user-attachments/assets/3173ae7a-4d87-4b3f-b5c5-64744800056b" />
+
+<img width="1885" height="984" alt="image" src="https://github.com/user-attachments/assets/15297622-9373-48b7-a81e-49fbc2b6e7aa" />
+
+
+
+<img width="1889" height="987" alt="image" src="https://github.com/user-attachments/assets/4bd57bd2-788b-4adc-b4bf-b9ed81c17e84" />
+
 
 ---
 
