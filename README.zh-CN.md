@@ -39,8 +39,8 @@ Velorah 是一个为设计工作室打造的电影级品牌展示网站，致力
 
 ### 电影级 Hero
 
-![Hero](https://images.unsplash.com/photo-1504898770365-14faca6a7320?w=800&h=400&fit=crop)
-*备用图片：替换为 Hero 区域截图*
+<img width="1891" height="984" alt="image" src="https://github.com/user-attachments/assets/58858645-fc58-4afe-9e4d-08200192f01d" />
+
 
 - 全屏循环视频背景（autoPlay, loop, muted, playsInline）
 - 标题渐入动画（staggered fade-up）
