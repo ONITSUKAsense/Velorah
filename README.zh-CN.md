@@ -3,9 +3,8 @@
 > 在寂静中，梦想悄然升起。
 
 Velorah 是一个为设计工作室打造的电影级品牌展示网站，致力于为深度思考者、大胆创造者和安静的反叛者设计工具。基于 React、TypeScript、Tailwind CSS v4 和 Framer Motion 构建。
+<img width="800" height="589" alt="4579e53d-cf57-4f25-b82c-d34de8cb3bd1" src="https://github.com/user-attachments/assets/bab1bfb8-9f9c-4b30-b48b-18e0be797e06" />
 
-![Hero Section](https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1200&h=630&fit=crop)
-*备用图片：替换为首页全屏 Hero 截图*
 
 ---
 
@@ -66,8 +65,8 @@ Velorah 是一个为设计工作室打造的电影级品牌展示网站，致力
 
 ### 作品网格
 
-![Studio Grid](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
-*备用图片：替换为 Studio 页面截图*
+<img width="1883" height="988" alt="image" src="https://github.com/user-attachments/assets/15956ffb-504b-41d4-a327-5c051f8cb9bd" />
+
 
 - 按分类筛选（全部 / 工具 / 体验 / 装置 / 界面）
 - 切换筛选时带有 `AnimatePresence` 布局动画
@@ -87,8 +86,8 @@ Velorah 是一个为设计工作室打造的电影级品牌展示网站，致力
 
 ### 日志详情页
 
-![Journal](https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=400&fit=crop)
-*备用图片：替换为 Journal 页面截图*
+<img width="1880" height="988" alt="image" src="https://github.com/user-attachments/assets/af8ee327-b84b-4620-8038-17abe126d134" />
+
 
 - 每语言 6 篇文章，包含完整正文
 - 富文本支持（粗体引导语、有序列表、段落）
@@ -177,8 +176,8 @@ src/
 ![Journal Page](https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200&h=630&fit=crop)
 *备用图片：替换为 Journal 页面截图*
 
-![Reach Us Page](https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1200&h=630&fit=crop)
-*备用图片：替换为 Reach Us 页面截图*
+<img width="1884" height="982" alt="image" src="https://github.com/user-attachments/assets/03c5d903-c2b3-44cd-853c-3912c128edd8" />
+
 
 ---
 
