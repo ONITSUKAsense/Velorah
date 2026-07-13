@@ -65,7 +65,8 @@ Velorah 是一个为设计工作室打造的电影级品牌展示网站，致力
 
 ### 作品网格
 
-<img width="1883" height="988" alt="image" src="https://github.com/user-attachments/assets/15956ffb-504b-41d4-a327-5c051f8cb9bd" />
+<img width="1887" height="987" alt="image" src="https://github.com/user-attachments/assets/0d1a66ee-78aa-4386-9d43-aac7fd4dd7be" />
+
 
 
 - 按分类筛选（全部 / 工具 / 体验 / 装置 / 界面）
@@ -164,17 +165,17 @@ src/
 
 ## 截图展示
 
-![Home Page](https://images.unsplash.com/photo-1550684376-efcbd6e3f031?w=1200&h=630&fit=crop)
-*备用图片：替换为完整首页截图*
+<img width="1889" height="990" alt="image" src="https://github.com/user-attachments/assets/277919e0-6c52-461c-b97a-c9448a25a665" />
 
-![Studio Grid](https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=1200&h=630&fit=crop)
-*备用图片：替换为 Studio 作品网格截图*
 
-![About Page](https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=1200&h=630&fit=crop)
-*备用图片：替换为 About 页面截图*
+<img width="1886" height="985" alt="image" src="https://github.com/user-attachments/assets/6879f57d-d94c-4d52-8ae4-c79c67c0b35f" />
 
-![Journal Page](https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200&h=630&fit=crop)
-*备用图片：替换为 Journal 页面截图*
+
+<img width="1885" height="984" alt="image" src="https://github.com/user-attachments/assets/5020f122-32a2-42e9-a399-d1920ea1734b" />
+
+
+<img width="1885" height="984" alt="image" src="https://github.com/user-attachments/assets/af17fed6-ae60-4efb-adfc-458e75626c65" />
+
 
 <img width="1884" height="982" alt="image" src="https://github.com/user-attachments/assets/03c5d903-c2b3-44cd-853c-3912c128edd8" />
 
