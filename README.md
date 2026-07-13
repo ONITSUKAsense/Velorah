@@ -8,7 +8,8 @@
 
 Velorah is a cinematic brand website for a design studio that crafts tools for deep thinkers, bold creators, and quiet rebels. Built with React, TypeScript, Tailwind CSS v4, and Framer Motion.
 
-<img width="800" height="589" alt="image" src="https://github.com/user-attachments/assets/15aea233-0209-45ff-a841-cf967f8a3a0e" />
+<img width="1887" height="985" alt="image" src="https://github.com/user-attachments/assets/1d2953be-5dcf-445a-a566-9d75d7f2acb7" />
+
 
 
 ---
