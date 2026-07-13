@@ -2,6 +2,10 @@
 
 > Where dreams rise through the silence.
 
+<p align="right">
+  <a href="README.zh-CN.md">中文</a>
+</p>
+
 Velorah is a cinematic brand website for a design studio that crafts tools for deep thinkers, bold creators, and quiet rebels. Built with React, TypeScript, Tailwind CSS v4, and Framer Motion.
 
 ![Hero Section](https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=1200&h=630&fit=crop)
